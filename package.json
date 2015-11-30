@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-rcswitch",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "rcswitch",
+    "raspberry",
+    "433",
+    "mhz",
+    "gpio",
+    "wiringPi",
+    "pi",
+    "siri",
+    "homebridge",
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "rcswitch": "^0.2.3"
+  }
+}
