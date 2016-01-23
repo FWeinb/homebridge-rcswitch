@@ -20,5 +20,14 @@
   },
   "dependencies": {
     "rcswitch": "^0.2.3"
+  },
+  "devDependencies": {
+    "xo": "^0.12.0"
+  },
+  "xo": {
+    "esnext": false,
+    "envs" :[
+      "node"
+    ]
   }
 }
